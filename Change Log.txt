@@ -1,0 +1,2 @@
+8/9/2022: v1.0 released, initial release
+9/9/2022 v1.2 released, added a bubblesort algorithm in python
