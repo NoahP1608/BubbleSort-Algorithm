@@ -1,3 +1,4 @@
 8/9/2022: v1.0 released, initial release
 9/9/2022 v1.2 released, added a bubblesort algorithm in python
 10/9/2022: v1.3 released, added a binaryserach algorithm in C++
+10/9/2022: v1.4 released, added a bubblesort algorithm in Javascript
